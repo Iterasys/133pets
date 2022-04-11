@@ -1,0 +1,6 @@
+pet_id,category_id,category_name,name,tags_id,tags_name,status,status_code
+918101,1,dog,Rex,1,vacinado,disponivel,200
+918102,2,cat,Bichano,2,castrado,vendido,200
+918103,3,fish,Nemo,0,,disponivel,200
+918104,2,cat,Mingau,1,vacinado,disponivel,200
+918105,1,dog,Scooby,1,vacinado,vendido,200
